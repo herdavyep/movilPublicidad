@@ -1,0 +1,748 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-11 10:16+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: customizer/wpparallax-customizer.php:200
+#, php-format
+msgid " %s"
+msgstr ""
+
+#: functions.php:137
+#, php-format
+msgid " Add Widgetized Footer Region %d."
+msgstr ""
+
+#: inc/wpparallax-functions.php:163
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/template-functions.php:337
+#, php-format
+msgid "%1$s By %2$s"
+msgstr ""
+
+#: customizer/wpparallax-customizer.php:129
+msgid "+977 334 556 12"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:52
+msgid ", "
+msgstr ""
+
+#: inc/template-functions.php:264
+msgid "404 Error"
+msgstr ""
+
+#: inc/wpparallax-functions.php:161
+#, php-format
+msgid "<h4 class=\"media-heading\">%s</h4>"
+msgstr ""
+
+#: customizer/wpparallax-customizer.php:352
+msgid "<strong>Note:</strong> This will not change first post length"
+msgstr ""
+
+#: inc/widgets/contact-info.php:25
+msgid "A widget that shows contact information"
+msgstr ""
+
+#: customizer/wpparallax-customizer.php:153
+msgid "abc@example.com"
+msgstr ""
+
+#: inc/wpparallax-functions.php:19 inc/widgets/widget-functions.php:36
+msgid "About Layout"
+msgstr ""
+
+#: comments.php:91
+msgid "ADD COMMENT"
+msgstr ""
+
+#: inc/repeater-controller/wp-customizer.php:64
+msgid "Add Section"
+msgstr ""
+
+#: functions.php:114 functions.php:123
+msgid "Add widgets here."
+msgstr ""
+
+#: layouts/portfolio-section.php:25
+msgid "All"
+msgstr ""
+
+#: inc/wpparallax-functions.php:204
+msgid "Archive by category"
+msgstr ""
+
+#: customizer/wpparallax-customizer.php:310
+msgid "Archive Page Settings"
+msgstr ""
+
+#: customizer/wpparallax-customizer.php:316
+msgid "Archive Page settings"
+msgstr ""
+
+#: customizer/wpparallax-customizer.php:334
+msgid "Archive Page Sidebar Option"
+msgstr ""
+
+#: customizer/wpparallax-customizer.php:351
+msgid "Archive Post Excerpt Length"
+msgstr ""
+
+#: inc/wpparallax-functions.php:262
+msgid "Articles posted by "
+msgstr ""
+
+#: inc/repeater-controller/wp-customizer.php:151
+msgid "Background Color"
+msgstr ""
+
+#: inc/repeater-controller/wp-customizer.php:134
+msgid "Background Image"
+msgstr ""
+
+#: inc/repeater-controller/wp-customizer.php:142
+msgid "Background Video"
+msgstr ""
+
+#: inc/wpparallax-functions.php:24 inc/widgets/widget-functions.php:41
+msgid "Blog Layout"
+msgstr ""
+
+#: inc/wpparallax-meta.php:47
+msgid "Both Sidebar"
+msgstr ""
+
+#: customizer/wpparallax-customizer.php:372
+msgid "Breadcrumb"
+msgstr ""
+
+#: customizer/wpparallax-customizer.php:366
+msgid "Breadcrumb Settings"
+msgstr ""
+
+#: inc/repeater-controller/wp-customizer.php:109
+msgid "Button Text"
+msgstr ""
+
+#: inc/repeater-controller/wp-customizer.php:117
+msgid "Button URL"
+msgstr ""
+
+#: layouts/blog-section.php:46
+msgid "BY"
+msgstr ""
+
+#: inc/wpparallax-functions.php:25 inc/widgets/widget-functions.php:42
+msgid "Call to Action"
+msgstr ""
+
+#: inc/repeater-controller/wp-customizer.php:124
+#: inc/widgets/wpparallax-sections.php:101
+msgid "Choose Background Type"
+msgstr ""
+
+#: customizer/wpparallax-customizer.php:22
+#: inc/repeater-controller/wp-customizer.php:101
+#: inc/widgets/wpparallax-sections.php:74
+msgid "Choose Category"
+msgstr ""
+
+#: customizer/wpparallax-customizer.php:293
+msgid "Choose Category for slider "
+msgstr ""
+
+#: inc/widgets/wpparallax-sections.php:110
+msgid "Choose Color"
+msgstr ""
+
+#: inc/widgets/wpparallax-sections.php:117
+msgid "Choose Image"
+msgstr ""
+
+#: inc/repeater-controller/wp-customizer.php:94
+#: inc/widgets/wpparallax-sections.php:65
+msgid "Choose Layout"
+msgstr ""
+
+#: customizer/wpparallax-customizer.php:232
+msgid "Choose Menu Layout"
+msgstr ""
+
+#: inc/widgets/wpparallax-sections.php:56
+msgid "Choose Page"
+msgstr ""
+
+#: inc/wpparallax-meta.php:19
+msgid "Choose Page Layout"
+msgstr ""
+
+#: customizer/wpparallax-customizer.php:9
+msgid "Choose Post"
+msgstr ""
+
+#: customizer/wpparallax-customizer.php:294
+msgid "Choose the category of posts for homepage slider"
+msgstr ""
+
+#: inc/repeater-controller/repeater-class.php:220
+msgid "Close"
+msgstr ""
+
+#: inc/repeater-controller/wp-customizer.php:127
+#: inc/widgets/widget-functions.php:50
+msgid "Color"
+msgstr ""
+
+#: comments.php:88
+msgid "Comment *"
+msgstr ""
+
+#: comments.php:41 comments.php:53
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:30
+msgid "Comments"
+msgstr ""
+
+#: comments.php:70
+msgid "Comments are closed."
+msgstr ""
+
+#: customizer/wpparallax-customizer.php:138
+#: customizer/wpparallax-customizer.php:162
+msgid "Contact no."
+msgstr ""
+
+#. %s: Name of current post.
+#: template-parts/content-single.php:40
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: customizer/wpparallax-customizer.php:462
+msgid "Copyright Text"
+msgstr ""
+
+#: functions.php:160
+msgctxt "Create Round Font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/wpparallax-meta.php:53 inc/widgets/widget-functions.php:35
+msgid "Default Layout"
+msgstr ""
+
+#: inc/repeater-controller/repeater-class.php:201
+msgid "Default layout"
+msgstr ""
+
+#: inc/repeater-controller/repeater-class.php:219
+msgid "Delete"
+msgstr ""
+
+#: customizer/wpparallax-customizer.php:64
+#: customizer/wpparallax-customizer.php:390
+msgid "Disable"
+msgstr ""
+
+#: inc/widgets/wpparallax-sections.php:25
+msgid "Display homepage sections with prebuilt layouts."
+msgstr ""
+
+#: inc/wpparallax-meta.php:12
+msgid "Display Layout Options"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:89 template-parts/content-page.php:35
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/widgets/contact-info.php:60
+msgid "Email"
+msgstr ""
+
+#: comments.php:81
+msgid "Email Address *"
+msgstr ""
+
+#: customizer/wpparallax-customizer.php:63
+#: customizer/wpparallax-customizer.php:389
+msgid "Enable"
+msgstr ""
+
+#: customizer/wpparallax-customizer.php:385
+msgid "Enable / Disable Option"
+msgstr ""
+
+#: inc/repeater-controller/wp-customizer.php:70
+msgid "Enable Section"
+msgstr ""
+
+#: customizer/wpparallax-customizer.php:60
+msgid "Enable/Disable Animation"
+msgstr ""
+
+#: inc/widgets/wpparallax-sections.php:84
+msgid "Enter Button text"
+msgstr ""
+
+#: inc/widgets/wpparallax-sections.php:93
+msgid "Enter Button URL"
+msgstr ""
+
+#: customizer/wpparallax-customizer.php:201
+#, php-format
+msgid "Enter URL for %s"
+msgstr ""
+
+#: inc/repeater-controller/wp-customizer.php:143
+#: inc/widgets/wpparallax-sections.php:125
+msgid "Enter video URL"
+msgstr ""
+
+#: inc/widgets/contact-info.php:55
+msgid "Fax"
+msgstr ""
+
+#: inc/repeater-controller/wp-customizer.php:158
+msgid "Font Color"
+msgstr ""
+
+#: customizer/wpparallax-customizer.php:428
+msgid "Footer Section"
+msgstr ""
+
+#: customizer/wpparallax-customizer.php:423
+msgid "Footer Settings"
+msgstr ""
+
+#: functions.php:135
+#, php-format
+msgid "Footer Widget Area %d"
+msgstr ""
+
+#: inc/wpparallax-meta.php:42
+msgid "Full width"
+msgstr ""
+
+#: customizer/wpparallax-customizer.php:35
+msgid "General Settings"
+msgstr ""
+
+#: inc/wpparallax-functions.php:26 inc/widgets/widget-functions.php:43
+msgid "Google Map"
+msgstr ""
+
+#: customizer/wpparallax-customizer.php:121
+msgid "Header Info"
+msgstr ""
+
+#: customizer/wpparallax-customizer.php:79
+msgid "Header Settings"
+msgstr ""
+
+#: customizer/wpparallax-customizer.php:103
+#: customizer/wpparallax-customizer.php:279
+#: customizer/wpparallax-customizer.php:445
+#: customizer/wpparallax-sanitize.php:35
+msgid "Hide"
+msgstr ""
+
+#: inc/widgets/wpparallax-sections.php:42
+msgid "Hide / Show Section"
+msgstr ""
+
+#: customizer/wpparallax-customizer.php:441
+msgid "Hide / Show social icon"
+msgstr ""
+
+#: customizer/wpparallax-customizer.php:99
+msgid "Hide / Show Top header"
+msgstr ""
+
+#: customizer/wpparallax-customizer.php:275
+msgid "Hide/Show Slider"
+msgstr ""
+
+#. Name of the template
+#: inc/wpparallax-functions.php:64 inc/wpparallax-functions.php:195
+#: inc/wpparallax-functions.php:198
+msgid "Home"
+msgstr ""
+
+#: customizer/wpparallax-customizer.php:48
+msgid "Homepage Aniation"
+msgstr ""
+
+#: inc/repeater-controller/wp-customizer.php:61
+msgid "Homepage Options"
+msgstr ""
+
+#: inc/repeater-controller/wp-customizer.php:33
+msgid "Homepage Section"
+msgstr ""
+
+#: customizer/wpparallax-customizer.php:256
+msgid "Homepage Settings"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://wpoperation.com/"
+msgstr ""
+
+#: inc/repeater-controller/wp-customizer.php:128
+#: inc/widgets/widget-functions.php:51
+msgid "Image"
+msgstr ""
+
+#: inc/widgets/contact-info.php:40
+msgid "Info Title"
+msgstr ""
+
+#: customizer/wpparallax-custom-controls.php:61
+msgid "Instruction"
+msgstr ""
+
+#: 404.php:24
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/repeater-controller/repeater-class.php:148
+msgid "Latest Posts"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:72
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: functions.php:121 inc/wpparallax-meta.php:32
+msgid "Left Sidebar"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:59
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: inc/widgets/contact-info.php:45
+msgid "Location"
+msgstr ""
+
+#: layouts/map-section.php:14
+msgid "Map"
+msgstr ""
+
+#: customizer/wpparallax-customizer.php:219
+msgid "Menu Settings"
+msgstr ""
+
+#: inc/repeater-controller/wp-customizer.php:80
+msgid "Menu Text"
+msgstr ""
+
+#: comments.php:77
+msgid "Name *"
+msgstr ""
+
+#: comments.php:45 comments.php:57
+msgid "Newer Comments"
+msgstr ""
+
+#: inc/repeater-controller/wp-customizer.php:73
+msgid "No"
+msgstr ""
+
+#: inc/widgets/widget-fields.php:106
+msgid "No file chosen"
+msgstr ""
+
+#: inc/repeater-controller/repeater-class.php:131
+msgid "No image selected"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: comments.php:44 comments.php:56
+msgid "Older Comments"
+msgstr ""
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: functions.php:161
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/wpparallax-functions.php:270
+msgid "Page"
+msgstr ""
+
+#: template-parts/content-page.php:22 template-parts/content-single.php:45
+#: template-parts/content.php:49
+msgid "Pages:"
+msgstr ""
+
+#: customizer/wpparallax-customizer.php:236
+msgid "Parallax"
+msgstr ""
+
+#: inc/widgets/contact-info.php:50
+msgid "Phone"
+msgstr ""
+
+#: inc/wpparallax-functions.php:21 inc/widgets/widget-functions.php:38
+msgid "Portfolio Layout"
+msgstr ""
+
+#. %s: post author.
+#: inc/template-tags.php:35
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. %s: post date.
+#: inc/template-tags.php:29
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: customizer/wpparallax-customizer.php:405
+msgid "Post/page Breadcrumb Image"
+msgstr ""
+
+#. 1: list of categories.
+#: inc/template-tags.php:55
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/wpparallax-functions.php:258
+msgid "Posts tagged"
+msgstr ""
+
+#: functions.php:54 customizer/wpparallax-customizer.php:235
+msgid "Primary"
+msgstr ""
+
+#: functions.php:162
+msgctxt "Raleway font: on or off"
+msgid "on"
+msgstr ""
+
+#: layouts/about-section.php:35 template-parts/content.php:44
+msgid "Read More"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:25
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: functions.php:246 inc/repeater-controller/repeater-class.php:137
+#: inc/widgets/widget-fields.php:111 inc/widgets/widget-fields.php:120
+msgid "Remove"
+msgstr ""
+
+#: functions.php:112
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/wpparallax-meta.php:37
+msgid "Right Sidebar(Default)"
+msgstr ""
+
+#: inc/wpparallax-functions.php:206
+msgid "Search results for"
+msgstr ""
+
+#. %s: search query.
+#: search.php:24 inc/template-functions.php:260
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/repeater-controller/wp-customizer.php:63
+msgid "Section : "
+msgstr ""
+
+#: inc/repeater-controller/repeater-class.php:147
+#: inc/widgets/widget-functions.php:18
+msgid "Select Category"
+msgstr ""
+
+#: inc/repeater-controller/repeater-class.php:138
+msgid "Select Image"
+msgstr ""
+
+#: inc/widgets/widget-functions.php:25
+msgid "Select Page"
+msgstr ""
+
+#: inc/repeater-controller/repeater-class.php:190
+#: inc/repeater-controller/wp-customizer.php:87
+msgid "Select Pages"
+msgstr ""
+
+#: inc/wpparallax-functions.php:20 inc/widgets/widget-functions.php:37
+msgid "Service Layout"
+msgstr ""
+
+#: customizer/wpparallax-customizer.php:102
+#: customizer/wpparallax-customizer.php:278
+#: customizer/wpparallax-customizer.php:444
+#: customizer/wpparallax-sanitize.php:34
+msgid "Show"
+msgstr ""
+
+#: inc/template-functions.php:75
+msgid "Skip to content"
+msgstr ""
+
+#: inc/template-functions.php:74
+msgid "Skip to navigation"
+msgstr ""
+
+#: customizer/wpparallax-customizer.php:263
+msgid "Slider settings"
+msgstr ""
+
+#: customizer/wpparallax-customizer.php:182
+msgid "Social Icons Settings"
+msgstr ""
+
+#: template-parts/content-none.php:38
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: customizer/wpparallax-customizer.php:406
+msgid "suggested dimensions for Breadcrumb:1920x325"
+msgstr ""
+
+#. 1: list of tags.
+#: inc/template-tags.php:62
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/wpparallax-functions.php:23 inc/widgets/widget-functions.php:40
+msgid "Team Layout"
+msgstr ""
+
+#: inc/wpparallax-functions.php:22 inc/widgets/widget-functions.php:39
+msgid "Testimonial Layout"
+msgstr ""
+
+#: customizer/wpparallax-customizer.php:36
+msgid "This allows to edit general theme settings"
+msgstr ""
+
+#: customizer/wpparallax-customizer.php:86
+msgid "Top Header settings"
+msgstr ""
+
+#: inc/widgets/widget-fields.php:114
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: functions.php:245 inc/widgets/widget-fields.php:109
+msgid "Upload"
+msgstr ""
+
+#: inc/repeater-controller/wp-customizer.php:126
+#: inc/widgets/widget-functions.php:52
+msgid "Video"
+msgstr ""
+
+#: layouts/blog-section.php:69
+msgid "View All"
+msgstr ""
+
+#: inc/widgets/widget-fields.php:136
+msgid "View File"
+msgstr ""
+
+#: inc/template-functions.php:227
+msgid "View More"
+msgstr ""
+
+#: inc/woocommerce.php:174
+msgid "View your shopping cart"
+msgstr ""
+
+#: inc/widgets/contact-info.php:24
+msgid "WPOP-Contact Info"
+msgstr ""
+
+#. Author of the theme
+msgid "WPoperation"
+msgstr ""
+
+#. Name of the theme
+msgid "WPparallax"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"WPparallax is one page WordPress theme. You can create unlimited homepage "
+"sections with prebuilt layouts.The theme is fully based on customizer so "
+"that you can create your site with live preview.All the options are "
+"userfriendly and easy to setup. The home page layout can be created to any "
+"other inner pages with the the help of widget built in the theme. The theme "
+"also supports WooCommerce."
+msgstr ""
+
+#: inc/wpparallax-meta.php:54
+msgid "Wpparallax Layout"
+msgstr ""
+
+#: inc/widgets/wpparallax-sections.php:27
+msgid "Wpparallax Sections"
+msgstr ""
+
+#: inc/repeater-controller/wp-customizer.php:72
+msgid "Yes"
+msgstr ""
+
+#: inc/wpparallax-functions.php:156
+msgid "Your comment is awaiting moderation."
+msgstr ""

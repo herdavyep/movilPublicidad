@@ -1,0 +1,348 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Operation Demo Importer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-08-30 07:12+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: classes/wordpress-importer.php:552
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: classes/importer.class.php:88
+msgid "(Enable this option to reset database and import demo)"
+msgstr ""
+
+#: classes/wordpress-importer.php:317
+msgid "- Select -"
+msgstr ""
+
+#: classes/wordpress-importer.php:1033
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: classes/wordpress-importer.php:171
+msgid "All done."
+msgstr ""
+
+#: classes/wordpress-importer.php:306
+msgid "as a new user:"
+msgstr ""
+
+#: classes/wordpress-importer.php:259
+msgid "Assign Authors"
+msgstr ""
+
+#: classes/wordpress-importer.php:314
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: classes/wordpress-importer.php:1049
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: classes/importer.class.php:356
+msgid "Customizer Settings could not be imported"
+msgstr ""
+
+#: classes/importer.class.php:359
+msgid "Customizer Settings file not found."
+msgstr ""
+
+#: classes/importer.class.php:354
+msgid "Customizer Settings saved."
+msgstr ""
+
+#. Description of the plugin
+msgid "Demo Importer For WPOperation Themes"
+msgstr ""
+
+#: classes/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: classes/wordpress-importer.php:275
+msgid "Download and import file attachments"
+msgstr ""
+
+#: CustomizerImporter.php:54 CustomizerImporter.php:58
+msgid ""
+"Error importing settings! Please check that you uploaded a customizer export "
+"file."
+msgstr ""
+
+#: CustomizerImporter.php:41
+msgid "Error importing settings! Please try again."
+msgstr ""
+
+#: CustomizerImporter.php:62
+msgid ""
+"Error importing settings! The settings you uploaded are not for the current "
+"theme."
+msgstr ""
+
+#: classes/importer.class.php:322
+msgid "Error on import"
+msgstr ""
+
+#: classes/wordpress-importer.php:367
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: classes/wordpress-importer.php:504 classes/wordpress-importer.php:645
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: classes/wordpress-importer.php:611
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: classes/wordpress-importer.php:530
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: classes/wordpress-importer.php:233
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: classes/wordpress-importer.php:418
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: classes/wordpress-importer.php:458
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: classes/wordpress-importer.php:846
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: classes/importer.class.php:325
+msgid "File Error!!!"
+msgstr ""
+
+#: classes/wordpress-importer.php:171
+msgid "Have fun!"
+msgstr ""
+
+#: classes/wordpress-importer.php:1048
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wpoperation.com"
+msgstr ""
+
+#: classes/wordpress-importer.php:262
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: classes/importer.class.php:106
+msgid "Import"
+msgstr ""
+
+#: classes/wordpress-importer.php:1123
+msgid ""
+"Import <strong>posts, pages, comments, custom fields, categories, and "
+"tags</strong> from a WordPress export file."
+msgstr ""
+
+#: classes/wordpress-importer.php:272
+msgid "Import Attachments"
+msgstr ""
+
+#: classes/wordpress-importer.php:292
+msgid "Import author:"
+msgstr ""
+
+#: classes/wordpress-importer.php:1026
+msgid "Import WordPress"
+msgstr ""
+
+#: classes/importer.class.php:104 classes/importer.class.php:545
+msgid "Imported"
+msgstr ""
+
+#: classes/importer.class.php:548
+msgid "Imported to Inactive"
+msgstr ""
+
+#: classes/wordpress-importer.php:859
+msgid "Invalid file type"
+msgstr ""
+
+#: classes/importer.class.php:83
+msgid ""
+"Make sure that you've installed all the required & recommended plugins "
+"before proceeding with the demo installation here."
+msgstr ""
+
+#: classes/wordpress-importer.php:783
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: classes/wordpress-importer.php:776
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: classes/importer.class.php:554
+msgid "No Title"
+msgstr ""
+
+#: classes/importer.class.php:107
+msgid "Not Imported"
+msgstr ""
+
+#. Name of the plugin
+msgid "Operation Demo Importer"
+msgstr ""
+
+#: classes/wordpress-importer.php:316
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: classes/wordpress-importer.php:303
+msgid "or create new user with login name:"
+msgstr ""
+
+#: classes/importer.class.php:129
+msgid "Preview"
+msgstr ""
+
+#: classes/importer.class.php:103
+msgid "Re-Import"
+msgstr ""
+
+#: classes/wordpress-importer.php:172
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: classes/wordpress-importer.php:916
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: classes/wordpress-importer.php:927
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: classes/wordpress-importer.php:903
+msgid "Remote server did not respond"
+msgstr ""
+
+#: classes/wordpress-importer.php:909
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: classes/importer.class.php:87
+msgid "Reset Database ?"
+msgstr ""
+
+#: classes/importer.class.php:447
+msgid "Site does not support widget"
+msgstr ""
+
+#: classes/wordpress-importer.php:127 classes/wordpress-importer.php:136
+#: classes/wordpress-importer.php:187 classes/wordpress-importer.php:191
+#: classes/wordpress-importer.php:200
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: classes/wordpress-importer.php:279
+msgid "Submit"
+msgstr ""
+
+#: classes/wordpress-importer.php:192
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: classes/wordpress-importer.php:128
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: classes/parsers.php:42 classes/parsers.php:72 classes/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: classes/parsers.php:84 classes/parsers.php:89 classes/parsers.php:279
+#: classes/parsers.php:468
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: classes/wordpress-importer.php:208
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: classes/wordpress-importer.php:260
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>"
+"admin</code>s entries."
+msgstr ""
+
+#: classes/importer.class.php:481
+msgid "Widget already exists"
+msgstr ""
+
+#: classes/importer.class.php:425
+msgid "Widget area does not exist in theme (using Inactive)"
+msgstr ""
+
+#: classes/importer.class.php:378
+msgid "Widget data is not available"
+msgstr ""
+
+#: classes/importer.class.php:560
+msgid "Widget Importer file not found."
+msgstr ""
+
+#. Author of the plugin
+msgid "WPOperation"
+msgstr ""
+
+#: classes/wordpress-importer.php:921
+msgid "Zero size file downloaded"
+msgstr ""
